@@ -25,7 +25,7 @@ Hardware: Personal Computer
 
 <img width="554" height="413" alt="dsbsc-python" src="https://github.com/user-attachments/assets/70b7955e-7fb4-4274-ac8b-5a36d2b24451" />
 
-# Tablular Column
+# Tablulation
 
 # Result
 Thus the DSB-SC-AM Modulation is generated using python.
