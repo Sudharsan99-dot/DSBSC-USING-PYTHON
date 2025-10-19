@@ -19,7 +19,11 @@ Hardware: Personal Computer
 
 # Program
 
-# Output Graph
+<img width="405" height="471" alt="dsbsc-code" src="https://github.com/user-attachments/assets/7d9aec40-3798-46dc-987e-eeea4f3243a0" />
+
+# Output Waveform
+
+<img width="554" height="413" alt="dsbsc-python" src="https://github.com/user-attachments/assets/70b7955e-7fb4-4274-ac8b-5a36d2b24451" />
 
 # Tablular Column
 
